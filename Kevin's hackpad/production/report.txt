@@ -1,0 +1,13 @@
+Warnung: Breitenkorrektur eingeschränkt.  Für die aktuellen Designregeln muss sich der Breitenkorrekturwert im Bereich [0.000001 mm; 0.199999 mm] befinden.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-F_Cu.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-B_Cu.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-F_Paste.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-B_Paste.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-F_Mask.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-B_Mask.gbr'.
+Plotted to 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\kevin\Downloads\Kevin's hackpad\Kevin's hackpad-job.gbrjob'.
+Hinweis: Done.
+Hinweis: Done.
