@@ -1,0 +1,8 @@
+{
+  "name": "XIAO RP2040 Kevin Keyboard",
+  "maintainer": "Kevin",
+  "url": "",
+  "keyboard": "xiao_rp2040_kevin",
+  "processor": "rp2040",
+  "features": ["oled", "encoder"]
+}
